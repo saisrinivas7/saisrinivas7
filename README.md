@@ -1,8 +1,8 @@
 Hi there I'm Saisrinivas 👋
 
-🔮I'm a fourth year Computer Science Student at BITS Pilani, Goa.
+🔮I'm master's in data science student at Arizona State University
 
-🌱 I’m currently exploring Machine Learning and its applications. 
+
 
 
 
