@@ -1,6 +1,6 @@
 Hi there I'm Saisrinivas 👋
 
-🔮I'm master's in data science student at Arizona State University
+🔮I'm Master's in Data Science student at Arizona State University
 
 
 
