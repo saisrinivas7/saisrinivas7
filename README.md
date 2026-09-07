@@ -4,7 +4,6 @@
 
 I'm Sai.
 
-I work at CVS Health, building AI agents for clinical use cases.
 
 I'm fascinated by high-impact products, and I like working on AI that enables
 data-driven decision making.
